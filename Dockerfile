@@ -1,3 +1,3 @@
-FROM ubunut
+FROM ubuntu
 
 
